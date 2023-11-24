@@ -1,0 +1,23 @@
+Test Plan for "Rent a Car" Functionality
+
+Objective:
+The objective of this test plan is to ensure that the "Rent a Car" functionality of the system performs
+as expected, meeting rider requirements and providing a seamless experience for riders.
+
+Scope:
+The scope of testing includes:
+
+Rental booking process
+Availability of cars
+Pricing and payment
+User authentication and authorization
+Reservation management
+
+Test Approach:
+Functional Testing:
+
+Verify that users can search for available cars based on location, date, time, and other filters.
+Confirm the correctness of the displayed car details (e.g.Driver info, make, model, features, availability).
+Ensure users can select a car, specify rental duration, and proceed to booking.
+Validate the payment process, including different payment methods.
+Verify that confirmation emails or receipts are sent upon successful booking.
