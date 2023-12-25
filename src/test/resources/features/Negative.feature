@@ -1,4 +1,4 @@
-@wip
+#@wip
 
 Feature: As a rider i should be able to sign up to Lift page.
 
